@@ -30,5 +30,7 @@ Manual: `pip install -r requirements.txt` then `streamlit run app.py`
 ## Demo inputs (defaults in the app)
 Age 30, Income 50000, Purchases 10, Tenure 5, Last purchase 30 days, Time on site 25, Sessions 12.
 
-## Not available (lost with the old laptop)
-customerData_500k.csv (dataset) - only needed to re-run the notebook, NOT the app.
+## ## Dataset
+
+The dataset is in `data/customerData_500k.csv`. It is only needed to re-run
+the notebook, NOT the app.
